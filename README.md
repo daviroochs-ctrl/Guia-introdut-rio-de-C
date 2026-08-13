@@ -3,6 +3,7 @@
 ## Objetivo
 Ajudar estudantes que estão iniciando sua jornada de aprendizagem da linguagem C.
 
+
 ## Público-alvo
 Estudantes que já têm alguma noção básica de lógica de programação e 
 querem aprender C como próxima linguagem, entendendo conceitos de mais 
