@@ -1,7 +1,8 @@
 # Guia introdutório de C
 
 ## Objetivo
-Ajudar estudantes iniciantes a compreender os fundamentos basicos da linguagem C.
+Ajudar estudantes que estão iniciando sua jornada de aprendizagem da linguagem C.
+
 
 ## Público-alvo
 Estudantes que já têm alguma noção básica de lógica de programação e 
